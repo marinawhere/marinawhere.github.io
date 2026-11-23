@@ -1,0 +1,40 @@
+body {
+	font-family: "Helvetica";
+}
+
+p {
+	font-size: 16px;
+/*	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT88AudJ-OEKeTIxS_UYMfFyA9e4UXFL8aj8FK1wwW78w&s=10);
+	background-size: contain;
+	background-position: left top;
+	background-repeat: repeat-y;*/
+
+	padding: 20px;
+	margin: 40px;
+	margin-top: 0px;
+
+	width: auto;
+	height: auto;
+}
+
+article h2 {
+	margin: 40px;
+	margin-bottom: 0px;
+}
+
+article {
+	width: 320px;
+	background-color: red;
+	border-radius: 40px;
+}
+
+.container {
+	display: flex;
+	justify-content: space-evenly;
+	flex-direction: row;
+	color: white;
+}
+
+section {
+	color:black;
+}
